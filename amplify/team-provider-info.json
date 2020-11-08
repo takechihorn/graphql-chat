@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-graphqlchat-dev-175323-authRole",
+            "UnauthRoleArn": "arn:aws:iam::213330998827:role/amplify-graphqlchat-dev-175323-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::213330998827:role/amplify-graphqlchat-dev-175323-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-graphqlchat-dev-175323-deployment",
+            "UnauthRoleName": "amplify-graphqlchat-dev-175323-unauthRole",
+            "StackName": "amplify-graphqlchat-dev-175323",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:213330998827:stack/amplify-graphqlchat-dev-175323/dd2e5550-219f-11eb-a1f6-0a6e476ede30",
+            "AmplifyAppId": "d1m2vlns6ehrzh"
+        },
+        "categories": {
+            "auth": {
+                "graphqlchat358c2638": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1m2vlns6ehrzh",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
